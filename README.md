@@ -1,4 +1,4 @@
-# :bike: Dashboard Hasil Analisis Bike Sharing :computer:
+# Dashboard Hasil Analisis Bike Sharing :bike:
 Sebelum menjalankan proyek analisis Bike Sharing ini anda perlu mengikuti beberapa langkah berikut.
 
 ## Setup Environment
